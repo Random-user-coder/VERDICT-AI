@@ -36,4 +36,4 @@ The system ingests structured business data (sales, costs, customers, advertisin
 1. **Install dependencies**  
 ```bash
 pip install pandas streamlit
-imulations, decision history tracking, and expanded datasets.
+
